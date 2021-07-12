@@ -1,0 +1,19 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image:url(https://studio.code.org/assets/sharing_drawing-b8bec2259d20ea6ea70953eac7eda748cac2d20aa7280b510e47e9c90380af97.png) ;
+background-position: center;
+background-size: cover;
+
+}
+
+
+#draw{
+border-width: 10px;
+background-color: tan;
+border-style: ridge;
+}
